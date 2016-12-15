@@ -11,5 +11,3 @@ lib/Mandrill                                                         lib/Mandril
 js/ebizmarts/mailchimp                                               js/ebizmarts/mailchimp
 skin/adminhtml/default/default/ebizmarts/mailchimp                   skin/adminhtml/default/default/ebizmarts/mailchimp
 skin/adminhtml/default/default/ebizmarts/mandrill                    skin/adminhtml/default/default/ebizmarts/mandrill
-m4mlogs.sh                                                           m4mlogs.sh
-getMailChimpResponse.php                                             getMailChimpResponse.php
